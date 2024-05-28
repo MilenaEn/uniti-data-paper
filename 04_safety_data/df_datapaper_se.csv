@@ -1,0 +1,595 @@
+"","external_id","visit_type","adverse_events.begin_date","adverse_events.end_date","adverse_events.event","adverse_events.ongoing","adverse_events.intensity","adverse_events.relation_to_drugs","adverse_events.consequences_drugs","adverse_events.other_taken_action","adverse_events.outcome","comorbidity.disease","comorbidity.ongoing","comorbidity.treatment","concomittant.ingredient","concomittant.dose","concomittant.unit","concomittant.dose_regimen","concomittant.route","concomittant.ongoing","non_pharmalogical.type_intervention","non_pharmalogical.week_frequency","non_pharmalogical.ongoing"
+"1","1-XQEFJZ-080.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hyperuricaemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","1-XQEFJZ-080.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"febuxostat","80","mg","biw","po","yes",NA,NA,NA
+"3","1-XQEFJZ-080.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"iodide","100","mg","qw","po","yes",NA,NA,NA
+"4","1-HAXDNQ-073.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","1-HAXDNQ-073.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"arterial hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","1-HAXDNQ-073.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"benign prostatic hypertrophy","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allopurinol","100","mg","qd","po","yes",NA,NA,NA
+"8","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"acetylsalicylic acid","100","mg","qd","po","yes",NA,NA,NA
+"9","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pantoprazol","40","mg","qd","po","yes",NA,NA,NA
+"10","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"thyroxine","100","mikr","qd","po","yes",NA,NA,NA
+"11","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Valsartan","320","mg","qd","po","yes",NA,NA,NA
+"12","1-HAXDNQ-073.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dutasterid +Tamsulosin","0.5 / 0.4","mg","qd","po","yes",NA,NA,NA
+"13","1-HAXDNQ-073.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"physiotherapy (neck)",NA,"yes"
+"14","34-A56FKZ-027.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"anxiety","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","34-A56FKZ-027.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"displemia","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","34-A56FKZ-027.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"diazepam",NA,"mg","qd","po","yes",NA,NA,NA
+"17","34-A56FKZ-027.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metamizol",NA,"mg","qd","po","yes",NA,NA,NA
+"18","34-QTJ0N5-013.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lumbar puncture","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","34-QTJ0N5-013.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"corticosteroids",NA,"mg","qd","po","yes",NA,NA,NA
+"20","34-7AQGAV-030.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"displemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","34-7AQGAV-030.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"artrosis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","34-7AQGAV-030.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"neumonia intersticial","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","34-7AQGAV-030.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"immunosuppressants",NA,"mg",NA,NA,"yes",NA,NA,NA
+"24","34-7AQGAV-030.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hearing AIDS",NA,"yes"
+"25","032-004-004.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Crohn disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","032-004-004.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ischemic narrowing of arteries","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","032-004-004.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"poly arthritis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","032-004-004.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxichloroquine",NA,"mg","qd","po","yes",NA,NA,NA
+"29","032-004-004.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"clopidogrel","75","mg","qd","po","yes",NA,NA,NA
+"30","032-004-004.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mesalazine","500","mg","bid","po","yes",NA,NA,NA
+"31","032-005-019.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteopenia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","032-005-019.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"macular degeneration","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","032-005-019.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypercholesterolemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","032-005-019.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cholecalciferol",NA,"mg","qd","po","yes",NA,NA,NA
+"35","032-005-019.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"calcium carbonate",NA,"mg","qd","po","yes",NA,NA,NA
+"36","032-005-019.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"antioxidants, vitamins, trace elements",NA,"mg","qd","po","yes",NA,NA,NA
+"37","032-005-019.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"lycopene",NA,"mg","qd","po","yes",NA,NA,NA
+"38","032-006-022.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"depression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","032-006-022.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"benign prostatic hyperplasia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","032-006-022.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"diabetes type 2","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","032-006-022.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"atheromatous disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","032-006-022.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"venlafaxine hydrochloride",NA,"mg","qd","po","yes",NA,NA,NA
+"43","032-006-022.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"tamsulosin hydrochloride",NA,"mg","qd","po","yes",NA,NA,NA
+"44","032-006-022.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"metformin hydrochloride",NA,"g","bid","po","yes",NA,NA,NA
+"45","032-006-022.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"atorvastatin calcium trihydrate",NA,"mg","qd","po","yes",NA,NA,NA
+"46","032-006-022.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vildagliptin",NA,"mg","qd","po","yes",NA,NA,NA
+"47","032-002-021.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"methypredizolone","16","mg","qd","po","no",NA,NA,NA
+"48","032-002-021.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxichloroquine",NA,"mg","qd","po","yes",NA,NA,NA
+"49","032-002-021.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cortisol",NA,"mg",NA,"po","no",NA,NA,NA
+"50","032-001-023.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hyperlipidemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","032-001-023.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"gastroesophagial reflux","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","032-001-023.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"migraine","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","032-001-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"omeprazole",NA,"cap","qd","po","no",NA,NA,NA
+"54","032-001-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"atorvastatin",NA,"tab","qd","po","yes",NA,NA,NA
+"55","032-001-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"amitriptilin",NA,"tab","qd","po","yes",NA,NA,NA
+"56","032-001-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pantoprazole","40","mg","qd","po","yes",NA,NA,NA
+"57","032-003-003.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","032-003-003.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteopenia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","032-003-003.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levythyroxine","100","mikr","qd","po","yes",NA,NA,NA
+"60","032-003-003.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vitamin D",NA,"ml","qd","po","yes",NA,NA,NA
+"61","032-011-011.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"rosacea acne","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","032-011-011.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"reactive hypoglycemia, insulin resistance","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","032-012-012.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"graves disease","no","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","032-012-012.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"psoriatic arthritis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","032-012-012.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"arterial hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","032-012-012.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"penindopril",NA,"mg","qd","po","yes",NA,NA,NA
+"67","032-012-012.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"adalimumab",NA,"mg","qow","im","yes",NA,NA,NA
+"68","032-012-012.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cyclosporine",NA,"mg","qd","po","no",NA,NA,NA
+"69","032-013-013.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"occipital hernia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","032-014-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteopenia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","032-014-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"spastic colitis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","032-014-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"gastroesophagial reflux","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","032-014-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","032-014-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"depression","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levityroxine","88","mikr","qd","po","yes",NA,NA,NA
+"76","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levothyroxine","100","mikr","qw","po","yes",NA,NA,NA
+"77","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pantoprazole",NA,"mg","prn","po","yes",NA,NA,NA
+"78","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vitamin D",NA,"ml","qw","po","yes",NA,NA,NA
+"79","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vitamin D and Ca",NA,"tab","qd","po","yes",NA,NA,NA
+"80","032-014-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"agomilatine",NA,"mg","qd","po","no",NA,NA,NA
+"81","032-015-015.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"possible immune arthritis","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","032-015-015.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"carpal tunnel syndrome","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","032-015-015.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cortisol",NA,"mg",NA,"po","no",NA,NA,NA
+"84","032-015-015.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxichloropue",NA,"mg","qd","po","no",NA,NA,NA
+"85","032-017-017.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"generalised stress disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","032-017-017.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"helicobaterium of the pylorus","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"amoxicillin",NA,NA,"qod","po","no",NA,NA,NA
+"88","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"clarithomycin",NA,NA,"qod","po","no",NA,NA,NA
+"89","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"metronidazole",NA,NA,"qod","po","no",NA,NA,NA
+"90","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"omeprazole",NA,NA,"qod","po","no",NA,NA,NA
+"91","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mirtazatine",NA,"mg","qod","po","yes",NA,NA,NA
+"92","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"clonazepam",NA,"mg","qod","po","yes",NA,NA,NA
+"93","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"citalopram",NA,"mg","qd","po","no",NA,NA,NA
+"94","032-017-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"zolpidem hemitartale",NA,"mg","qd","po","no",NA,NA,NA
+"95","032-019-019.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hyperlipedemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","032-019-019.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"rosuvastatin calcium","0,5","mg","qod","po","yes",NA,NA,NA
+"97","032-020-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"psoriatic arthritis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","032-020-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"asthma","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","032-020-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteopenia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","032-020-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"salmetarole","250","mikr","qod","inh","yes",NA,NA,NA
+"101","032-020-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vitamin D",NA,"mg","qd","po","yes",NA,NA,NA
+"102","032-022-022.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"antiphospholipid syndrome","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","032-022-022.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","032-022-022.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypoparathyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxychloroquine",NA,"mg","bid","po","yes",NA,NA,NA
+"106","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"t4",NA,"mikr","qd","po","yes",NA,NA,NA
+"107","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"calcium",NA,"mg","bid","po","yes",NA,NA,NA
+"108","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"magnesium",NA,"mg","qd","po","yes",NA,NA,NA
+"109","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"alphacalsipherol",NA,"cap","bid","po","yes",NA,NA,NA
+"110","032-022-022.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"acenocoumarol",NA,"mg","qd","po","yes",NA,NA,NA
+"111","032-023-023.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"acute lymphoblastic leukaemia","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","032-023-023.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"thyroid disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","032-023-023.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levityroxine",NA,"mikr","qd","po","yes",NA,NA,NA
+"114","032-023-023.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"chemotherapy",NA,NA,NA,NA,"yes",NA,NA,NA
+"115","032-026-026.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Asthma","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","032-026-026.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nasal polyps","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","032-026-026.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Beclomethasone","200",NA,"qd","inh","yes",NA,NA,NA
+"118","032-026-026.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Azelastine & Fluconasole",NA,"ml","qd","nas","yes",NA,NA,NA
+"119","032-029-029.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"gastroesophageal reflux","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","032-030-030.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Chronic Obstructive Pulmonary Disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","032-030-030.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sleep Apnea","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","032-030-030.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salmeterol",NA,"ml","bid","inh","yes",NA,NA,NA
+"123","032-030-030.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Budesonide/Formoterol Fumarate",NA,"ml","prn","inh","yes",NA,NA,NA
+"124","032-030-030.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tiotropium Bromide Monohydrate",NA,"ml","prn","inh","yes",NA,NA,NA
+"125","34-KEM9CD-040.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"bromazepam",NA,"mg","qd","po","yes",NA,NA,NA
+"126","34-KEM9CD-040.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"melatonina",NA,"mg","qd","po","yes",NA,NA,NA
+"127","34-KEM9CD-040.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mindfullness",NA,"yes"
+"128","032-028-028.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"sleep-stress disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","032-028-028.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pregabalin",NA,"mg","qd","po","yes",NA,NA,NA
+"130","032-028-028.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"magnesium oxide",NA,"mg","qd","po","yes",NA,NA,NA
+"131","1-DKE9TG-085.4","adverse","2021-11-24",NA,"Covid-19 infection","no",NA,"no relationship","unchanged dose rate",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","1-DKE9TG-085.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","1-DKE9TG-085.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lung cancer","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","1-DKE9TG-085.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pregabalin","150","mg","qd","po","yes",NA,NA,NA
+"135","1-DKE9TG-085.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ramipril","5","mg","qd","po","yes",NA,NA,NA
+"136","1-DKE9TG-085.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"acetylsalicylic acid","100","mg","qd","po","yes",NA,NA,NA
+"137","032-036-036.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"allergic asthma","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","032-036-036.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"adrenaline and cortizone",NA,NA,NA,NA,"no",NA,NA,NA
+"139","032-037-037.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atrial Fibrilation","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","032-037-037.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","032-037-037.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","032-037-037.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prostate cancer","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","032-037-037.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Etexilic Valgatrane",NA,"mg","bid","po","yes",NA,NA,NA
+"144","032-037-037.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Flecainide",NA,"mg","qd","po","yes",NA,NA,NA
+"145","032-037-037.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Valsartane & Amlodipine",NA,"mg","qd","po","yes",NA,NA,NA
+"146","032-037-037.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"T4",NA,"mikr","qd","po","yes",NA,NA,NA
+"147","032-037-037.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Esomeprazole Magnesium Trihydrate",NA,"mg","qd","po","yes",NA,NA,NA
+"148","032-040-040.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","032-040-040.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levothyroxine",NA,"mikr","qd","po","yes",NA,NA,NA
+"150","032-041-041.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atrial Fibrilation","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","032-041-041.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diabetes Mellitus Type II","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","032-041-041.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperlipidemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","032-041-041.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prostate cancer","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","032-041-041.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dontasteride",NA,"mg","qd","po","yes",NA,NA,NA
+"155","032-041-041.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metformin",NA,"mg","qod","po","yes",NA,NA,NA
+"156","032-041-041.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bisopropol",NA,"mg","qd","po","yes",NA,NA,NA
+"157","032-041-041.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatin",NA,"mg","qd","po","yes",NA,NA,NA
+"158","032-043-043.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Depression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","032-043-043.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperlipidemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","032-043-043.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ventricular contractions","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","032-043-043.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Menopause","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","032-043-043.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bisoprolol","2,5","mg","qd","po","yes",NA,NA,NA
+"163","032-043-043.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amiloride",NA,"mg","qod","po","yes",NA,NA,NA
+"164","032-043-043.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatine",NA,"mg","qd","po","yes",NA,NA,NA
+"165","032-043-043.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sitaloprame",NA,"mg","qd","po","yes",NA,NA,NA
+"166","032-043-043.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Oestradiole",NA,NA,"tid","po","yes",NA,NA,NA
+"167","032-049-049.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"urticaria","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","032-049-049.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"possible benign prostate hypertrophic","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","032-049-049.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"antihistamine",NA,"mg","qd","po","yes",NA,NA,NA
+"170","032-049-049.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"tamsulosin",NA,"mg","qd","po","no",NA,NA,NA
+"171","1-FCD0RZ-094.3","adverse","2022-01-23","2022-01-23","leukoplakia vocal cord (surgery)","no","light","no relationship","unchanged dose rate","none","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","1-FCD0RZ-094.3","adverse",NA,NA,"covid-infection","no","light","no relationship","unchanged dose rate","none","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","1-FCD0RZ-094.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"arterial hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","1-FCD0RZ-094.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypercholesterolemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","1-FCD0RZ-094.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"rheumatism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","1-FCD0RZ-094.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"calcified biceps tendon","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","1-FCD0RZ-094.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"leukoplakia (vocal cord)","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","1-FCD0RZ-094.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Telmisartan + Amlodipin","80/5","mg","qd","po","yes",NA,NA,NA
+"179","1-FCD0RZ-094.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatin","5","mg","qd","po","yes",NA,NA,NA
+"180","1-FCD0RZ-094.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prednisolon","1","mg","qd","po","no",NA,NA,NA
+"181","1-FCD0RZ-094.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"curcuma",NA,NA,"qd","po","yes",NA,NA,NA
+"182","1-FCD0RZ-094.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prednisolon","10","mg","qd","po","yes",NA,NA,NA
+"183","1-FCD0RZ-094.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"physiotherapy",2,"no"
+"184","1-FCD0RZ-094.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"physiotherapy",1,"no"
+"185","032-051-051.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","032-051-051.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"irbesartan and diuretics",NA,"mg","qd","po","yes",NA,NA,NA
+"187","032-052-052.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hashimoto Thyroiditis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","032-052-052.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ca of ovaries","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","032-052-052.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"t4","62","mikr","qd","po","yes",NA,NA,NA
+"190","032-052-052.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"oestrogen",NA,NA,"qd","top","yes",NA,NA,NA
+"191","032-054-054.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"acute myocardial infraction","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","032-054-054.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"visoprolone",NA,"mg","bid","po","yes",NA,NA,NA
+"193","032-054-054.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"eplerende",NA,"mg","qd","po","yes",NA,NA,NA
+"194","032-054-054.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"atorvastatin-rampamile-acetylsalicilic acid",NA,"mg","qd","po","yes",NA,NA,NA
+"195","033-XOHRR8-005.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bisoprolol","2.5","mg","qd","po","yes",NA,NA,NA
+"196","033-XOHRR8-005.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatine","40","mg","qd","po","yes",NA,NA,NA
+"197","033-XOHRR8-005.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Setraline","50","mg","qd","po","yes",NA,NA,NA
+"198","033-XOHRR8-005.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Zolpidem","10","mg","qd","po","yes",NA,NA,NA
+"199","033-RB6BUO-001.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diabetes Mellitus type I","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","033-RB6BUO-001.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Asthma","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","033-RB6BUO-001.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Insulin","Not specified",NA,"-","-","yes",NA,NA,NA
+"202","033-RB6BUO-001.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Seretide","Not specified",NA,"-","-","yes",NA,NA,NA
+"203","033-RB6BUO-001.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Salbutamol (Ventolin)","Not specified",NA,"-","-","yes",NA,NA,NA
+"204","033-RB6BUO-001.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rhinatiol","1","tab","qd","po","yes",NA,NA,NA
+"205","033-RB6BUO-001.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Imcy 098 / placebo (Imcyse Diabetes study)","Not specified",NA,"-","sc","yes",NA,NA,NA
+"206","033-FIK6YG","adverse","2021-12-04","2021-12-04","Thoracic strain","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","033-FIK6YG","adverse","2022-03-24","2022-03-24","Hand Surgery","no","light","no relationship","unchanged dose rate","(extended) hospitalization","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","033-FIK6YG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol","1000","mg","prn","po","no",NA,NA,NA
+"209","033-FIK6YG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibuprofen","600","mg","prn","po","no",NA,NA,NA
+"210","033-FIK6YG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tramadol + hydrochloride (Tradonal)","50","mg","prn","po","no",NA,NA,NA
+"211","033-FIK6YG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tramadol + Hydrochloride (Contramal)","100","mg","qod","po","no",NA,NA,NA
+"212","032-055-055.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hallermann-Streift syndrome","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","032-055-055.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","032-055-055.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"T4","50","mikr","qd","po","yes",NA,NA,NA
+"215","033-Y9K2OG","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hashimoto Disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","033-Y9K2OG","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arthrosis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","033-Y9K2OG","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypercholesterolemia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","033-Y9K2OG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"L-thyroxine","100","mikr","qd","po","yes",NA,NA,NA
+"219","033-Y9K2OG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atarax","Not specified",NA,"-","-","yes",NA,NA,NA
+"220","033-Y9K2OG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estradiol","0.75","mg","qd","td","yes",NA,NA,NA
+"221","033-Y9K2OG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Progesteron","10","mg","qod","td","yes",NA,NA,NA
+"222","033-Y9K2OG","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lormetazepam","0.5","mg","prn","po","yes",NA,NA,NA
+"223","033-SU81DP","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pramipexol (Sifrol)","Not specified",NA,"-","-","yes",NA,NA,NA
+"224","033-SU81DP","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"hydroxyzine + dihydrochloride (Atarax)","Not specified",NA,"-","-","yes",NA,NA,NA
+"225","033-SU81DP","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bromazepam","12","mg","-","po","yes",NA,NA,NA
+"226","033-SU81DP","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tramadol","100","mg","-","-","yes",NA,NA,NA
+"227","033-ZWAHUV","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Autism Spectrum Disorder (ASD)","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","033-ZWAHUV","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Attention Deficit Hyperactivity Disorder (ADHD)","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","033-ZWAHUV","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Venlafaxine","Not specified",NA,"-","po","yes",NA,NA,NA
+"230","033-ZWAHUV","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Methylphenidate + Hydrochloride (Rilatin)","Not specified",NA,"-","po","yes",NA,NA,NA
+"231","033-FGCNTB-004.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Post Traumatic Stress Disorder (PTSD)","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","033-FGCNTB-004.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Coveram","Not specified",NA,"-","-","yes",NA,NA,NA
+"233","033-FGCNTB-004.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"L-thryoxine","Not specified",NA,"-","-","yes",NA,NA,NA
+"234","033-84KJZC-014.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Zolpidem","2.5","mg","prn","po","no",NA,NA,NA
+"235","033-84KJZC-014.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"yes"
+"236","033-84KJZC-014.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tinnitus Trajectory (after End of Treatment)",NA,"no"
+"237","033-TQBLEQ","adverse","2022-02-08","2022-02-11","Acute Urine Retention","no","medium","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","033-TQBLEQ","adverse","2022-03-17","2022-03-19","Transurethral Resection of Prostate (TURP)","no","medium","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","033-TQBLEQ","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ciprofloxacine","Not specified",NA,"-","-","no",NA,NA,NA
+"240","033-CACHUC-008.3","adverse","2022-01-19",NA,"Vertigo","yes","light","no relationship","unchanged dose rate","medical treatment","still recovering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","033-CACHUC-008.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Betahistine","Not specified",NA,"prn","-","yes",NA,NA,NA
+"242","34-EWPJFC-059.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"fibromyalgia","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","34-EWPJFC-059.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"tramadol",NA,"mg","qd","po","yes",NA,NA,NA
+"244","033-5FKTOQ-009.2","adverse","2022-02-02",NA,"Rotator Cuff Tendinopathy","yes","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","033-5FKTOQ-009.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypercholesterolemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","033-5FKTOQ-009.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergic Asthma","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","033-5FKTOQ-009.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atorvastatine","40","mg","qd","po","yes",NA,NA,NA
+"248","033-5FKTOQ-009.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Dutasteride","0.5","mg","qd","po","yes",NA,NA,NA
+"249","033-5FKTOQ-009.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tamsulosine","0.4","mg","qd","po","yes",NA,NA,NA
+"250","033-5FKTOQ-009.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"no"
+"251","033-INVNYC-008.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tibolon","2.5","mg","qd","po","yes",NA,NA,NA
+"252","033-INVNYC-008.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Melatonin","3","tab","qd","po","yes",NA,NA,NA
+"253","033-MPO5UN","adverse","2022-02-15",NA,"Obstructive Sleep Apnea Syndrome","yes","medium","no relationship","unchanged dose rate","(extended) hospitalization","still recovering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","033-MPO5UN","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Muscle Tension Dysphonia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","033-MPO5UN","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterial Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","033-MPO5UN","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Chronic Hyperventilation","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","033-MPO5UN","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prazepam","10","drop","prn","po","yes",NA,NA,NA
+"258","033-MPO5UN","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Brupropion + hydrochloride","Not specified",NA,"-","-","yes",NA,NA,NA
+"259","033-MPO5UN","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Olmesartan + Medoxomil (Belsar)","Not specified",NA,"-","-","yes",NA,NA,NA
+"260","033-Q2JFW3-010.2","adverse","2022-05-02","2022-05-02","Acute pain testis (left)","no","light","no relationship","unchanged dose rate","diagnostic and clinical tests","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","033-Q2JFW3-010.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Migraine","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","033-Q2JFW3-010.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol + Acetylsalicyclic acid + caffein","Not specified",NA,"prn","-","yes",NA,NA,NA
+"263","033-Q2JFW3-010.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibuprofen","600","mg","tid","po","yes",NA,NA,NA
+"264","033-BY6TZ0-007.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"White Coat Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","033-BY6TZ0-007.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bisoprolol","2.5","mg","qd","po","no",NA,NA,NA
+"266","033-BY6TZ0-007.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nomegestrol + acetate (Nogest)","5","mg","qd","po","yes",NA,NA,NA
+"267","033-4MPNNT","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Acetylsalicylic acid","80","mg","qd","po","yes",NA,NA,NA
+"268","032-057-057.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"allergic asthma","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","032-059-059.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"gastroesophageal reflux","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","032-059-059.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"alumni hydroxide magnesium hydroxide dimethicone",NA,"mg","qd","po","yes",NA,NA,NA
+"271","34-JRXJHN-062.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Major depression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","34-JRXJHN-062.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Anxiety","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","34-JRXJHN-062.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rivotil",NA,"mg","qd","po","yes",NA,NA,NA
+"274","34-JRXJHN-062.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sertraline",NA,"mg","qd","po","yes",NA,NA,NA
+"275","34-JRXJHN-062.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mirtrazapine",NA,"mg","qd","po","yes",NA,NA,NA
+"276","34-JRXJHN-062.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"psychological therapy",1,"yes"
+"277","033-ZHSXXM","adverse","2022-09-26","2022-09-30","Perforated Appendicitis","no","serious","no relationship","unchanged dose rate","(extended) hospitalization","still recovering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","033-ZHSXXM","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibuprofen","400","mg","prn","po","yes",NA,NA,NA
+"279","033-ZHSXXM","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metronidazol","500","mg","tid","po","no",NA,NA,NA
+"280","033-ZHSXXM","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cefuroxim","1500","mg","tid","po","no",NA,NA,NA
+"281","033-ZHSXXM","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Antibiotics (not specified)","Not specified","mg","qd","iv","no",NA,NA,NA
+"282","033-BZPJR1","adverse","2022-07-18","2022-07-18","Pterygium","no","light","no relationship","unchanged dose rate","(extended) hospitalization","unknown",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","033-BZPJR1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tobramycina + Dexamethason (Tobradex)","Not specified",NA,"qd","td","no",NA,NA,NA
+"284","032-060-060.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"stress disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","032-060-060.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vromazepame","3","mg","qod","po","yes",NA,NA,NA
+"286","032-060-060.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pregabalin","25","mg","qd","po","yes",NA,NA,NA
+"287","033-DOXZUA-011.2","adverse",NA,NA,"Depression","yes","serious","no relationship","unchanged dose rate","medical treatment","still recovering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","033-DOXZUA-011.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Neck and back problems","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","033-DOXZUA-011.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Loprazolam","Not Specified","mg","-","po","no",NA,NA,NA
+"290","033-DOXZUA-011.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Duloxetine","Not specified","mg","-","po","yes",NA,NA,NA
+"291","033-DOXZUA-011.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"no"
+"292","032-061-061.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"stress disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","032-061-061.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"konetiapine","100","mg","qd","po","yes",NA,NA,NA
+"294","032-061-061.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"mirtazapine","60","mg","qd","po","yes",NA,NA,NA
+"295","032-061-061.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"duloxetine","60","mg","bid","po","yes",NA,NA,NA
+"296","032-061-061.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"pregabalin","150","mg","tid","po","yes",NA,NA,NA
+"297","033-7FXJVF-006.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arthrosis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","033-7FXJVF-006.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cetirizine","Not specified",NA,"qd","po","no",NA,NA,NA
+"299","033-7FXJVF-006.4","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"yes"
+"300","033-QEMHJF","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tamsulosine","Not specified",NA,"-","-","yes",NA,NA,NA
+"301","033-0SVDKC-014.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diabetes Mellitus type II","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","033-0SVDKC-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Acetylsalicylic acid","80","mg","qd","po","yes",NA,NA,NA
+"303","033-0SVDKC-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metformine","850","mg","qd","po","yes",NA,NA,NA
+"304","033-0SVDKC-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Empagliflozine","10","mg","qd","po","yes",NA,NA,NA
+"305","033-0SVDKC-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atorvastatine","20","mg","qd","po","yes",NA,NA,NA
+"306","033-0SVDKC-014.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ezetimibe","10","mg","qd","po","yes",NA,NA,NA
+"307","032-062-062.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308","032-062-062.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sleep disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","032-062-062.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Elevated Uric Acid","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","032-062-062.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"T4","60","mikr","qd","po","yes",NA,NA,NA
+"311","032-062-062.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alopurinol","100","mg","qd","po","yes",NA,NA,NA
+"312","032-062-062.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vuspirone",NA,"mg","qd","po","yes",NA,NA,NA
+"313","032-062-062.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Valeriana",NA,"mg","qd","po","yes",NA,NA,NA
+"314","033-DBXWW3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatin","30","mg","qd","po","yes",NA,NA,NA
+"315","033-Z0KHP8-007.2","adverse","2022-04-01","2022-04-01","Tooth infection + extraction (36)","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","033-Z0KHP8-007.2","adverse","2022-08-16","2022-08-31","Tooth infection + extraction (46)","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","033-Z0KHP8-007.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Migraine","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paroxetine","20","mg","qd","po","yes",NA,NA,NA
+"319","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amoxicillin + clavulanic acid","125","mg","-","-","no",NA,NA,NA
+"320","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Escitalopram","10","mg","-","-","no",NA,NA,NA
+"321","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol","Not specified",NA,"prn","po","no",NA,NA,NA
+"322","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diclofenac","Not specified",NA,"prn","po","no",NA,NA,NA
+"323","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tramadol + Hydrochloride (Tradonal)","Not specified",NA,"prn","-","yes",NA,NA,NA
+"324","033-Z0KHP8-007.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibuprofen","600","mg","prn","po","no",NA,NA,NA
+"325","033-Z0KHP8-007.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Trauma therapy with Eye Movement Desensitization and Reprocessing",NA,"yes"
+"326","34-3ECYF4-069.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"pharyngolaryngitis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","34-3ECYF4-069.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"cholesterol","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","34-3ECYF4-069.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"simvastatine","20","mg","qd","po","yes",NA,NA,NA
+"329","34-3ECYF4-069.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rilast","160","mg","qd","po","yes",NA,NA,NA
+"330","032-064-064.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","032-064-064.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Verapamile",NA,"mg","qd","po","yes",NA,NA,NA
+"332","31-RL7DBC-097.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hashimoto","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","31-RL7DBC-097.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Blasenentzündung","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","31-RL7DBC-097.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Covid 19","no","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"D-Mannose","2","g","tid","po","no",NA,NA,NA
+"336","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"D-Mannose","2","g","qd","po","no",NA,NA,NA
+"337","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pivmecillinaminchlorid","400","mg","tid","po","no",NA,NA,NA
+"338","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"ASS","500","mg","prn","po","no",NA,NA,NA
+"339","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Levothyroxin-Natrium","50","mikr","qd","po","yes",NA,NA,NA
+"340","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Selen","100","mikr","qd","po","no",NA,NA,NA
+"341","31-RL7DBC-097.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"D- Mannose","2","g","qw","po","no",NA,NA,NA
+"342","033-SABU4E","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"difterie-anatoxine, tetanus-anatoxine, Bordetella pertussis","0.5","ml","-","im","no",NA,NA,NA
+"343","033-SABU4E","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"iron (II), sulfate, ascorbate, sodium","525","mg","-","po","no",NA,NA,NA
+"344","033-SABU4E","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Folic acid","0.4","mg","-","po","yes",NA,NA,NA
+"345","033-SABU4E","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Desogestrel (Lueva)","75","mikr","qd","po","yes",NA,NA,NA
+"346","033-EE0DAV","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Intermittent Dynamic Neuropathy (Hand)","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","033-EE0DAV","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diclofenac","Not specified",NA,"prn","td","yes",NA,NA,NA
+"348","033-NDN6SB-018.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Desloratadine","1","tab","prn","po","yes",NA,NA,NA
+"349","033-NDN6SB-018.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cetirizine","1","tab","prn","po","yes",NA,NA,NA
+"350","033-NDN6SB-018.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"L-thyroxine","50","mikr","qd","po","yes",NA,NA,NA
+"351","033-NDN6SB-018.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bipressil","5","mg","qd","po","yes",NA,NA,NA
+"352","033-HSFHAK","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterial Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","033-HSFHAK","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Olmesartan, Medoxomil (Belsar)","20","mg","qd","po","yes",NA,NA,NA
+"354","033-HSFHAK","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pseudo-efedrine, Hydrochloride, Cetirizine, Dihydrochloride (Cirrus)","Not specified",NA,"-","-","yes",NA,NA,NA
+"355","033-HSFHAK","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mometason, Furoaat","Not specified",NA,"-","-","yes",NA,NA,NA
+"356","033-JZXVNV","adverse","2022-09-21","2022-09-21","Skin Excision","no","light","no relationship","unchanged dose rate","(extended) hospitalization","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","033-FUMSIK-016.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergies: tree pollen","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","033-FUMSIK-016.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Frozen shoulder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","033-FUMSIK-016.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"yes"
+"360","033-QKFINE-009.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Osteoporosis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","033-QKFINE-009.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyaluronic acid","Not specified",NA,"-","pv","yes",NA,NA,NA
+"362","033-QKFINE-009.4","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"yes"
+"363","032-069-069.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alergies","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","032-069-069.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alergical Asthma","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","032-069-069.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Asperger's Syndrome","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","032-069-069.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HDPD","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","032-069-069.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Irritative Bowel Syndrome","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","032-069-069.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Antihistamine",NA,"mg","qd","po","yes",NA,NA,NA
+"369","032-069-069.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Melatonine",NA,"mg","qod","po","yes",NA,NA,NA
+"370","032-070-070.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hashimoto's Disease","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","032-070-070.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Deficiency Bd","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","032-070-070.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Depression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","032-070-070.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Athralgia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","032-070-070.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Levothyroxine Sodium","50","mikr","qd","po","yes",NA,NA,NA
+"375","032-070-070.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vitamin D","1","mg","qd","po","yes",NA,NA,NA
+"376","032-070-070.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Venlafaxine Hydrochloride","150","mg","qd","po","yes",NA,NA,NA
+"377","032-071-071.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Headaches","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","032-071-071.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Duloxetine",NA,"mg","qd","po","yes",NA,NA,NA
+"379","032-071-071.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Heparin",NA,"ml","qd","iv","yes",NA,NA,NA
+"380","032-071-071.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Prazole",NA,"mg","qd","po","yes",NA,NA,NA
+"381","033-WCTCFV-033.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Migraine","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","033-WCTCFV-033.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Neck- and back pain","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","033-P3TETN-010.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Estradiol + dydrogesteron","Not specified",NA,"-","-","yes",NA,NA,NA
+"384","033-P3TETN-010.4","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"no"
+"385","032-073-073.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hasimoto Disease","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","032-074-074.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Stroke","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","032-074-074.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Patent Foramen Ovale","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","032-074-074.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Thrombophilia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","032-074-074.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Anemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","032-074-074.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mood Disorders-Dipression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","032-074-074.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rivaroxaban",NA,"mg","qd","po","yes",NA,NA,NA
+"392","032-074-074.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Clopidogrel",NA,"mg","qd","po","no",NA,NA,NA
+"393","032-074-074.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Folic Acid",NA,"mg","qd","po","yes",NA,NA,NA
+"394","032-074-074.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pregabalin",NA,"mg","qd","po","yes",NA,NA,NA
+"395","032-074-074.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sertraline Hydrochloride",NA,"mg","qd","po","yes",NA,NA,NA
+"396","032-075-075.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Aortic Valve Deficiency - Metallic Valve","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","032-075-075.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Acenocoumarol",NA,"mg","-","po","yes",NA,NA,NA
+"398","032-075-075.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metoprolol Tartate",NA,"mg","bid","po","yes",NA,NA,NA
+"399","032-076-076.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Stress Disorder- Sleep disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","032-076-076.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alprazolam",NA,"mg","qd","po","yes",NA,NA,NA
+"401","032-076-076.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paroxetin",NA,"mg","qd","po","no",NA,NA,NA
+"402","033-FQTHPA-019.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eczema","no","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","033-FQTHPA-019.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergy: tree pollen","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","033-FQTHPA-019.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Venlafaxine","75","mg","qd","po","yes",NA,NA,NA
+"405","033-FQTHPA-019.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mometason, fuorate","Not specified",NA,"-","nas","yes",NA,NA,NA
+"406","033-FQTHPA-019.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bacterial Lysate (Broncho-Vaxom)","1","tab","qd","po","yes",NA,NA,NA
+"407","033-VHI5XA-017.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterial Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","033-VHI5XA-017.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Candesartan","16","mg","qd","po","yes",NA,NA,NA
+"409","033-EVPI1K-010.3","adverse","2022-05-05","2022-05-25","Septoplasty","no","light","no relationship","unchanged dose rate","other medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lung transplant (double)","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Diabetes Mellitus","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Peyronie disease","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lower Urinary Tract Symptoms (LUTS)","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Urolithiasis","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","033-EVPI1K-010.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cortical Osteoporosis","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tacrolimus","2.5","mg","qd","po","yes",NA,NA,NA
+"417","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alendronate","70","mg","qw","iv","yes",NA,NA,NA
+"418","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atorvastatine","10","mg","qd","po","yes",NA,NA,NA
+"419","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Erythromycine","250","mg","tiw","po","yes",NA,NA,NA
+"420","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Bisoprolol","2.5","mg","qod","po","yes",NA,NA,NA
+"421","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Perindopril, arginine","2.5","mg","qd","po","yes",NA,NA,NA
+"422","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sulfamethoxazol + trimethoprim","80","mg","biw","po","yes",NA,NA,NA
+"423","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Methylprednisolon","4","mg","qd","po","yes",NA,NA,NA
+"424","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metformine","500","mg","bid","po","yes",NA,NA,NA
+"425","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pantoprazol","40","mg","qd","po","yes",NA,NA,NA
+"426","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tamsulosine","0.4","mg","qd","po","yes",NA,NA,NA
+"427","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Quietiapine","25","mg","qd","po","yes",NA,NA,NA
+"428","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mycophenolate, mofetil","500","mg","bid","po","yes",NA,NA,NA
+"429","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sertraline","Not specified",NA,"-","-","yes",NA,NA,NA
+"430","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Insulin","Not specified",NA,"qd","sc","yes",NA,NA,NA
+"431","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mometasone","Not specified",NA,"bid","nas","yes",NA,NA,NA
+"432","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pentamidine, isethionaat","300","mg","qm","inh","yes",NA,NA,NA
+"433","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ketoconazol","Not specified",NA,"biw","td","yes",NA,NA,NA
+"434","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Isoconazol nitraat","Not specified",NA,"qd","td","yes",NA,NA,NA
+"435","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mometasone, fumarate","Not specified",NA,"qd","td","yes",NA,NA,NA
+"436","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiomer","Not specified",NA,"tid","nas","yes",NA,NA,NA
+"437","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hydrocortison + oxytetracycline (Terra-Cortril)","Not specified",NA,"tid","td","yes",NA,NA,NA
+"438","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol","1","g","qid","po","yes",NA,NA,NA
+"439","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Montelukast","10","mg","qd","po","yes",NA,NA,NA
+"440","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"beclometasone, dipropionate, formoterol, fumarate","Not specified",NA,"bid","inh","yes",NA,NA,NA
+"441","033-EVPI1K-010.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ipratropiumbromide","Not specified",NA,"tid","nas","yes",NA,NA,NA
+"442","033-EVPI1K-010.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Psychotherapy",NA,"yes"
+"443","033-MP3RXQ-016.2","adverse","2022-10-05","2022-10-05","Trigger finger","no","light","no relationship","reduced dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","033-MP3RXQ-016.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol","1","g","-","po","yes",NA,NA,NA
+"445","033-8LNLAC-015.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Migraine","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","033-8LNLAC-015.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Naratriptan","2.5","mg","prn","po","no",NA,NA,NA
+"447","033-8LNLAC-015.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"ethinylestradiol, desogestrel (Desorelle)","20","mg","qd","po","yes",NA,NA,NA
+"448","033-8LNLAC-015.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metoprolol","95","mg","qd","po","no",NA,NA,NA
+"449","033-AYZFTZ-012.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vitiligo","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","033-AYZFTZ-012.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mometason, fuoraat (Elocom)","Not specified",NA,"-","-","no",NA,NA,NA
+"451","033-0CO2ME-011.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterin Cholesterol","10","mg","qd","po","yes",NA,NA,NA
+"452","033-JQJ78C-014.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergy: dust","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","033-XHROMT-018.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Psoriasis","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","033-XHROMT-018.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Alopecia","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","033-XHROMT-018.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Acetylcystein","Not specified",NA,"-","-","no",NA,NA,NA
+"456","033-XHROMT-018.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Escitalopram","Not specified",NA,"-","-","no",NA,NA,NA
+"457","033-XHROMT-018.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Betahistine","24","mg","qd","po","no",NA,NA,NA
+"458","033-NPOCV7","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergy: dust/pollen","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","033-NPOCV7","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Obstructive sleep apnea syndrome","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","032-079-079.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperlipidemia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","032-079-079.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Stress Disorder","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","032-079-079.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ventaflaxine",NA,"mg","qd","po","no",NA,NA,NA
+"463","032-079-079.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Melatonine",NA,"mg","qd","po","yes",NA,NA,NA
+"464","033-SXJKR0","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterial Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","033-SXJKR0","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mixed Hyperlipidemia","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","033-SXJKR0","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lyme's Disease","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","033-SXJKR0","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Acetylsalicylic acid","80","mg","qd","po","yes",NA,NA,NA
+"468","033-SXJKR0","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Perindopril, Arginine, Amlodipine","5","mg","qd","po","yes",NA,NA,NA
+"469","033-SXJKR0","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lorazepam","1","mg","prn","po","yes",NA,NA,NA
+"470","033-GWNKJD-019.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sleep apnea syndrome","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","033-GWNKJD-019.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cervicalgia (neck pain)","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","033-GWNKJD-019.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pantoprazole","Not specified",NA,"-","-","yes",NA,NA,NA
+"473","033-GWNKJD-019.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Clonazepam","0.5","mg","qd","po","yes",NA,NA,NA
+"474","033-GWNKJD-019.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Blood pressure lowering drug (not specified)","Not specified",NA,"-","-","no",NA,NA,NA
+"475","033-GWNKJD-019.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Continuous Positive Airway Pressure (CPAP)",NA,"yes"
+"476","033-HP1DDM-028.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Neck Tension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","033-HP1DDM-028.3","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Physiotherapy",NA,"yes"
+"478","032-080-080.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Thyroiditis Hasimoto","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","032-080-080.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"T4",NA,"mikr","qd","po","yes",NA,NA,NA
+"480","032-081-081.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","032-081-081.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperlipidemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","032-081-081.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rosuvastatin Calcium",NA,"mg","qd","po","yes",NA,NA,NA
+"483","032-081-081.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Azilsartan medoxomil",NA,"mg","qod","po","yes",NA,NA,NA
+"484","032-084-084.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperinsulinaemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","032-084-084.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mitral Valve Prolapse","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","032-084-084.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gloucosamine/Manganese",NA,"mg","qd","po","yes",NA,NA,NA
+"487","032-086-086.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","032-086-086.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metabolic Syndrome","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","032-086-086.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nebivolol Hydrochloride",NA,"mg","qd","po","yes",NA,NA,NA
+"490","032-086-086.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metformin",NA,"mg","qd","po","yes",NA,NA,NA
+"491","033-EY1ULB-016.4","adverse","2023-02-27","2023-02-27","PICC catheter implantation","no","light","no relationship","unchanged dose rate","none","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","033-EY1ULB-016.4","adverse","2023-03-15","2023-03-15","Blood clot around PICC catheter","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","033-EY1ULB-016.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Psoriasis Arthritis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","033-EY1ULB-016.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"HIV","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","033-EY1ULB-016.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Recurrent E. Coli infections","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Eusaprim","160","mg","bid","po","no",NA,NA,NA
+"497","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Emitricitabine, tenofovir, disoproxil","245","mg","prn","po","yes",NA,NA,NA
+"498","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Apremilast","30","mg","bid","po","yes",NA,NA,NA
+"499","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Furadantine","100","mg","tid","po","no",NA,NA,NA
+"500","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amoxiclav","875","mg","tid","po","no",NA,NA,NA
+"501","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amoxicilline","500","mg","tid","po","no",NA,NA,NA
+"502","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ceftriaxon","2","g","qd","iv","yes",NA,NA,NA
+"503","033-EY1ULB-016.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rivaroxaban","15","mg","bid","po","yes",NA,NA,NA
+"504","31-ATOSGG-100.2","adverse",NA,NA,"tinnitus unchanged but more present and therfore more bothersome","no","light","certain","unchanged dose rate","none","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tremor Hand rechts","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Psoriasis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Luxation des Sternoklavikulargelenk","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Burnout/Antriebslosigkeit","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Schwindel/Gangunsicherheit","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","31-ATOSGG-100.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Covid-19","no","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","31-ATOSGG-100.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibuprofen","200","mg","qod","po","yes",NA,NA,NA
+"512","31-ATOSGG-100.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Escitalopram","20","mg","qd","po","yes",NA,NA,NA
+"513","31-ATOSGG-100.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Manuelle Therapie",2,"no"
+"514","31-ATOSGG-100.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Manuelle Therapie",1,"yes"
+"515","31-ATOSGG-100.2","non_pharmalogical",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gespräche mit Psychiaterin",0,"yes"
+"516","032-091-091.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nasal polyps","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","032-091-091.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Stroke","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","032-091-091.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hypertension","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","032-091-091.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperlipidemia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","032-091-091.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Atrial fibrillation","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Osteoporosis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Stress Disorder","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Allergic Asthma","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hysterectomy- Hormonal Rehabilitation","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Back pain","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","032-092-092.1","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Gastrointestinal Problems","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cholecaciferol-calcium carbonate",NA,"mg","qd","po","yes",NA,NA,NA
+"528","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Risedronate Sodium",NA,"mg","qd","po","yes",NA,NA,NA
+"529","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Citalopram",NA,"mg","qd","po","yes",NA,NA,NA
+"530","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Montelucast",NA,"mg","qd","po","yes",NA,NA,NA
+"531","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Desbratadine",NA,NA,"qd","inh","yes",NA,NA,NA
+"532","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Raloxifene Hydrochloride",NA,"mg","qd","po","yes",NA,NA,NA
+"533","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Complex of B1,B6,B12",NA,"mg","qd","po","yes",NA,NA,NA
+"534","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paracetamol/Acetylcylic acid",NA,"mg","prn","po","yes",NA,NA,NA
+"535","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"L-cystine",NA,"mg","qd","po","yes",NA,NA,NA
+"536","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Magnesium",NA,"mg","qd","po","yes",NA,NA,NA
+"537","032-092-092.1","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ibutin",NA,"mg","qd","po","yes",NA,NA,NA
+"538","033-PVD4AD-021.3","adverse",NA,NA,"Broken foot","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","033-PVD4AD-021.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Anticoagulants (not specified)","Not specified",NA,"-","-","no",NA,NA,NA
+"540","34-2NVN2M-074.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"tachycarid","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","34-2NVN2M-074.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Willis-Ekbom  syndrom","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","34-2NVN2M-074.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"tension headache","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","34-2NVN2M-074.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"propanolol","10","mg","qd","po","yes",NA,NA,NA
+"544","34-2NVN2M-074.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"dinisol",NA,"mg","qd","po","yes",NA,NA,NA
+"545","34-2NVN2M-074.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"gabapeptina",NA,"mg","qd","po","yes",NA,NA,NA
+"546","34-2NVN2M-074.4","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"tramadol",NA,"mg","qd","po","yes",NA,NA,NA
+"547","032-095-095.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Syphilis","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","032-095-095.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Penicillin",NA,NA,"qow","iv","no",NA,NA,NA
+"549","033-SPRFVM-020.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arterial Hypertension","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","033-SPRFVM-020.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Antihypertensive drug (not specified)","Not specified",NA,"-","-","yes",NA,NA,NA
+"551","032-096-096.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Psoriatic Arthritis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","032-096-096.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hyperthyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","032-096-096.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"T4",NA,"mikr","qd","po","yes",NA,NA,NA
+"554","033-BNBWI1-020.3","adverse","2022-09-18","2022-09-18","Mental health issues and physical pain","no","medium","no relationship","reduced dose rate","(extended) hospitalization","still recovering",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","033-BNBWI1-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Traffic accident","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","033-BNBWI1-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pelvic Prosthesis","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","033-BNBWI1-020.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Cardiac Ablation","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Beta Histine","24","mg","prn","po","yes",NA,NA,NA
+"559","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Paroxetine","Not specified",NA,"-","po","yes",NA,NA,NA
+"560","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Duloxetine","Not specified",NA,"-","po","yes",NA,NA,NA
+"561","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metformine, hydrochlorine (Metformax)","850","mg","qd","po","yes",NA,NA,NA
+"562","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pantoprazole","Not specified",NA,"-","po","yes",NA,NA,NA
+"563","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rovustatine","Not specified",NA,"-","-","yes",NA,NA,NA
+"564","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tramadol, Hydrochloride (Tradonal)","50","mg","qid","po","yes",NA,NA,NA
+"565","033-BNBWI1-020.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Amitriptyline","Not specified",NA,"-","po","yes",NA,NA,NA
+"566","033-U3QEH3-021.2","adverse","2023-02-26","2023-02-26","Contusion","no","light","no relationship","unchanged dose rate","diagnostic and clinical tests","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","033-AOUBQ5-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Zolpidem","Not specified",NA,"-","-","no",NA,NA,NA
+"568","033-AOUBQ5-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Xanax","1.5","mg","-","-","yes",NA,NA,NA
+"569","033-AOUBQ5-023.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Levothyroxine","not specified",NA,"-","-","yes",NA,NA,NA
+"570","34-NMEWHI-079.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lorazepam","1","mg","prn","po","yes",NA,NA,NA
+"571","34-ED6IAQ-080.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Hashimoto hypothyroidism","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","34-ED6IAQ-080.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"levotiroxine","75","mikr","qd","po","yes",NA,NA,NA
+"573","032-098-098.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteoporosis","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","032-098-098.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteopenia","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","032-098-098.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"hiatal hernia","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","032-098-098.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"closed angle glaucoma","no","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","032-098-098.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"prolia",NA,NA,NA,"iv","yes",NA,NA,NA
+"578","032-098-098.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"vitamin D",NA,NA,"qd","po","yes",NA,NA,NA
+"579","032-098-098.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"berlex",NA,NA,"qd","po","yes",NA,NA,NA
+"580","032-100-100.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Arrythmias","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","032-100-100.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Metprolol",NA,"mg","qd","po","yes",NA,NA,NA
+"582","032-100-100.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Rivaroxabane",NA,"mg","bid","po","yes",NA,NA,NA
+"583","34-FTA15G-083.4","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"osteoporosis","yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","033-F5C1PL-030.3","adverse",NA,NA,"teeth extraction","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","033-F5C1PL-030.3","adverse",NA,NA,"trismus","no","light","no relationship","unchanged dose rate","medical treatment","already recovered",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","033-F5C1PL-030.3","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Strabism","yes","no treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","033-F5C1PL-030.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"paracetamol","1","g","qid","po","no",NA,NA,NA
+"588","033-F5C1PL-030.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"ibuprofen","600","mg","tid","po","no",NA,NA,NA
+"589","033-F5C1PL-030.3","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"clindamycine","600","mg","tid","po","no",NA,NA,NA
+"590","032-101-101.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Depression","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","032-101-101.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Esitalopram",NA,"mg","qod","po","yes",NA,NA,NA
+"592","032-102-102.2","comorbidity",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Menopause","yes","treatment",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","032-102-102.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Primerose oil",NA,"cap","qd","po","yes",NA,NA,NA
+"594","34-FASGVD-087.2","concomittant",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"zyloric","200","mg","qd","po","yes",NA,NA,NA

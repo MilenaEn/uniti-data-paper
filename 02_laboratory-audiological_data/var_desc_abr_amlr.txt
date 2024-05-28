@@ -1,0 +1,12 @@
+Description of ABR/AMLR Data:
+
+every signal, whether it is ABR or AMLR, consists of 450 samples. So ABR_1 is the first sample, ABR_2 is the second, and ABR_450 is the last sample. Each sample (point) has the amplitude and the time value at which it occurred. The values contained in the csv files correspond to the amplitudes of the samples (in μV).
+The time value is derived from the sampling rate, where ABR is 30 kHz and AMLR is 3 kHz. The signals for the ABR waveforms correspond to a total time duration of 15 ms, and similarly, the signals for the AMLR waveforms correspond to a total time duration of 150 ms.
+Hence, the time distance of one sample from the next is always constant and is defined as the total recording time duration/number of samples, i.e., 15 ms/450 samples and 150 ms/450 samples, respectively.
+Now in Interacoustics' eclipse, depending on the filters used, the time may not start at 0 ms as some samples are used for filtering, so they are skipped.
+
+Here is the Eclipse manual for further clarification.
+https://www.manualslib.com/products/Interacoustics-Eclipse-Ep25-11647463.html
+Interacoustics Eclipse EP25 Manuals | ManualsLib
+Interacoustics Eclipse EP25 Pdf User Manuals. View online or download Interacoustics Eclipse EP25 Instructions For Use Manual
+www.manualslib.com
